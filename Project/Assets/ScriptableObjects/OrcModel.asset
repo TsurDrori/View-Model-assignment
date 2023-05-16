@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d9636e5b229b54dbead7da8fd0716b, type: 3}
+  m_Name: OrcModel
+  m_EditorClassIdentifier: 
+  _cardName: Orc
+  _cardPrice: 3
+  _maxProgression: 20
+  _currentProgression: 10
+  _cardImage: {fileID: 21300000, guid: df955caee7d07164db0cb90a047f0d7c, type: 3}
